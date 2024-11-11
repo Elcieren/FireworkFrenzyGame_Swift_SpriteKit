@@ -1,4 +1,4 @@
-## SwiftMapKit Uygulama Kullanımı
+## FireworkFrenzyGame_Swift_SpriteKit
 | Oyun Başlıyor | Oyun Devam Ediyor |
 |---------|---------|
 | ![Video 1](https://github.com/user-attachments/assets/81c493fd-c283-45d4-b85a-085b353e0177) | ![Video 2](https://github.com/user-attachments/assets/7731ed1f-cf52-420a-a627-9f0a4dbb5936) |
